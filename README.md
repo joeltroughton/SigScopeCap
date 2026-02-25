@@ -1,4 +1,4 @@
-# ScopeCap: Siglent SDS Waveform Capture
+# SigScopeCap: Siglent SDS Waveform Capture
 
 Capture displayed waveforms from a USB-connected Siglent oscilloscope and save them to CSV.
 
